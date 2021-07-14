@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirHal
-I’m interested in programing and web design
+I’m interested in programing and web devlopement
 - 🌱 I’am currently learning avery thing about how to be a front end web devlopemt
 - 💞️ I’m looking to collaborate on mayb a small project !
 - 📫 How to reach me  abirhalouadji@gmail.com
